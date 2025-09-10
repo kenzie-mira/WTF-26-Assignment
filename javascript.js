@@ -240,4 +240,4 @@ if(accountFive.accountBalance >= amountInEUR){
 }
 else{
     console.log(`Insufficient funds`)
-}
+};
